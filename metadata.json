@@ -1,0 +1,6 @@
+{
+  "name": "DevCanvas",
+  "description": "An immersive neo-glassmorphic developer portfolio and real-time backend project management panel with modular controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
